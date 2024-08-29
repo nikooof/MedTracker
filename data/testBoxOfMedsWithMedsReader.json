@@ -1,0 +1,18 @@
+{"listOfMeds":
+[
+  {
+    "expiry date": "2025-12-20",
+    "consumed pills": 45,
+    "original pills": 90,
+    "consumption information": "Consumption information has not been specified!",
+    "name": "Zyrtec"
+  },
+  {
+    "expiry date": "2025-06-30",
+    "consumed pills": 95,
+    "original pills": 100,
+    "consumption information": "Every two days after breakfast.",
+    "name": "Motrin"
+  }
+]
+}

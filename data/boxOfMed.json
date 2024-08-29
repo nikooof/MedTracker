@@ -1,0 +1,16 @@
+{"listOfMeds": [
+    {
+        "consumed pills": 0,
+        "name": "Tylenol",
+        "consumption information": "Consumption information has not been specified!",
+        "expiry date": "2025-12-20",
+        "original pills": 20
+    },
+    {
+        "consumed pills": 0,
+        "name": "Advil",
+        "consumption information": "Consumption information has not been specified!",
+        "expiry date": "2015-12-20",
+        "original pills": 50
+    }
+]}
